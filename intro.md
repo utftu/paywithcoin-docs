@@ -2,7 +2,7 @@
 
 ## How it works
 
-![Schema how service works](/img/how-work.svg)
+![Schema how service works](/static/how-work.svg)
 
 ### A scenario explanation
 
