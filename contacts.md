@@ -1,8 +1,4 @@
----
-sidebar_position: 5
----
-
 # Contacts
 
-- [Telegram](https://t.me/utftufutukgyftryidytftuv)
+- [Telegram](https://t.me/utftuf)
 - [Email](https://paywithcoin.online/example)
